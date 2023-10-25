@@ -9,7 +9,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css)&nbsp;
-![FastAPI](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=css)&nbsp;
 
 </div>
 
