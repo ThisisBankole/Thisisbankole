@@ -3,7 +3,7 @@
 # Hi, I'm Banks 👋
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-![C#]([https://img.shields.io/badge/-Csharp-333333?style=flat&logo=css])&nbsp;
+![C#]([https://img.shields.io/badge/-Csharp-333333?style=flat&logo=csharp])&nbsp;
 
 
 </div>
