@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Bankole 👋
+# Hi, I'm Banks 👋
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)&nbsp;
